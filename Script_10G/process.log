@@ -1,0 +1,656 @@
+Try to login
+Find Password
+Click 'VLAN'
+Click '802.1Q'
+Click 'Advanced'
+Click 'VLAN config'
+Click 'VLAN membership'
+Switch to frame
+Select VID 2
+Find ports 11
+Click 'Apply'
+Try to login
+Find Password
+Click 'VLAN'
+Click '802.1Q'
+Click 'Advanced'
+Click 'VLAN config'
+Click 'VLAN membership'
+Switch to frame
+Select VID 2
+Try to login
+Find Password
+Click 'VLAN'
+Click '802.1Q'
+Click 'Advanced'
+Click 'VLAN config'
+Click 'VLAN membership'
+Switch to frame
+Select VID 2
+Try to login
+Find Password
+Click 'VLAN'
+Click '802.1Q'
+Click 'Advanced'
+Click 'VLAN config'
+Click 'VLAN membership'
+Switch to frame
+Select VID 2
+Try to login
+Find Password
+Click 'VLAN'
+Click '802.1Q'
+Click 'Advanced'
+Click 'VLAN config'
+Click 'VLAN membership'
+Switch to frame
+Select VID 2
+Try to login
+Find Password
+Click 'VLAN'
+Click '802.1Q'
+Click 'Advanced'
+Click 'VLAN config'
+Click 'VLAN membership'
+Switch to frame
+Select VID 2
+成功點擊編號 5 的按鈕，等待狀態更新！
+編號 5 的按鈕未成功切換為 tagImg！
+成功點擊編號 7 的按鈕，等待狀態更新！
+編號 7 的按鈕未成功切換為 tagImg！
+Try to login
+Find Password
+Click 'VLAN'
+Click '802.1Q'
+Click 'Advanced'
+Click 'VLAN config'
+Click 'VLAN membership'
+Switch to frame
+Select VID 2
+成功點擊編號 5 的按鈕，等待狀態更新！
+編號 5 的按鈕未成功切換為 tagImg！
+編號 5 的按鈕成功包含 tagImg！
+成功點擊編號 7 的按鈕，等待狀態更新！
+編號 7 的按鈕未成功切換為 tagImg！
+編號 7 的按鈕成功包含 tagImg！
+Try to login
+Find Password
+Cannot click 'VLAN'. Stop test.
+Try to login
+Find Password
+Click 'VLAN'
+Click '802.1Q'
+Click 'Advanced'
+Click 'VLAN config'
+Click 'VLAN membership'
+Switch to frame
+Select VID 2
+成功點擊編號 5 的按鈕，等待狀態更新！
+編號 5 的按鈕未成功切換為 tagImg！
+編號 5 的按鈕成功包含 tagImg！
+成功點擊編號 7 的按鈕，等待狀態更新！
+編號 7 的按鈕未成功切換為 tagImg！
+編號 7 的按鈕成功包含 tagImg！
+Try to login
+Find Password
+Cannot click 'VLAN'. Stop test.
+Try to login
+Find Password
+Cannot click 'VLAN'. Stop test.
+Try to login
+Find Password
+Cannot click 'VLAN'. Stop test.
+Try to login
+Find Password
+Cannot click 'VLAN'. Stop test.
+Try to login
+Find Password
+Cannot click 'VLAN'. Stop test.
+Try to login
+Find Password
+Click 'VLAN'
+Click '802.1Q'
+Click 'Advanced'
+Click 'VLAN config'
+Click 'VLAN membership'
+Switch to frame
+Select VID 2
+成功點擊編號 5 的按鈕，等待狀態更新！
+編號 5 的按鈕成功包含 tagImg！
+編號 5 的按鈕成功包含 tagImg！
+成功點擊編號 7 的按鈕，等待狀態更新！
+編號 7 的按鈕成功包含 tagImg！
+編號 7 的按鈕成功包含 tagImg！
+Try to login
+Find Password
+Click 'VLAN'
+Click '802.1Q'
+Click 'Advanced'
+Click 'VLAN config'
+Click 'VLAN membership'
+Switch to frame
+Select VID 2
+初始狀態：按鈕未包含 untImg!
+按鈕成功包含 untImg！
+初始狀態：按鈕包含 remImg!
+按鈕未成功切換為 remImg！
+Try to login
+Find Password
+Click 'VLAN'
+Click '802.1Q'
+Click 'Advanced'
+Click 'VLAN config'
+Click 'VLAN membership'
+Switch to frame
+Select VID 2
+Try to login
+Find Password
+Click 'VLAN'
+Click '802.1Q'
+Click 'Advanced'
+Click 'VLAN config'
+Click 'VLAN membership'
+Switch to frame
+Select VID 2
+按鈕未包含 untImg，點擊並重試...
+成功點擊按鈕，等待狀態更新...
+Port <selenium.webdriver.remote.webelement.WebElement (session="79610383d36428f805364590f122c2d4", element="f.9304D37E20E586CDAB7FF4DE9D3D6544.d.7550889E46300740F90D7C878184ED1A.e.175")> 成功切換為 untImg！
+切換成功
+按鈕未包含 tagImg，點擊並重試...
+成功點擊按鈕，等待狀態更新...
+Port <selenium.webdriver.remote.webelement.WebElement (session="79610383d36428f805364590f122c2d4", element="f.9304D37E20E586CDAB7FF4DE9D3D6544.d.7550889E46300740F90D7C878184ED1A.e.176")> 未成功切換為 tagImg！
+按鈕未包含 tagImg，點擊並重試...
+成功點擊按鈕，等待狀態更新...
+Port <selenium.webdriver.remote.webelement.WebElement (session="79610383d36428f805364590f122c2d4", element="f.9304D37E20E586CDAB7FF4DE9D3D6544.d.7550889E46300740F90D7C878184ED1A.e.176")> 成功切換為 tagImg！
+切換成功
+Try to login
+Find Password
+Click 'VLAN'
+Click '802.1Q'
+Click 'Advanced'
+Click 'VLAN config'
+Click 'VLAN membership'
+Switch to frame
+Select VID 2
+按鈕未包含 untImg，點擊並重試...
+成功點擊按鈕，等待狀態更新...
+Port <selenium.webdriver.remote.webelement.WebElement (session="4d3c66995ae0793349be1237a1567be1", element="f.6C91D0F167249A5DCB5CC8FD57E34D9E.d.1FF311BEC2E850F31956242906414524.e.176")> 成功切換為 untImg！
+切換成功
+按鈕未包含 tagImg，點擊並重試...
+成功點擊按鈕，等待狀態更新...
+Port <selenium.webdriver.remote.webelement.WebElement (session="4d3c66995ae0793349be1237a1567be1", element="f.6C91D0F167249A5DCB5CC8FD57E34D9E.d.1FF311BEC2E850F31956242906414524.e.177")> 未成功切換為 tagImg！
+按鈕未包含 tagImg，點擊並重試...
+成功點擊按鈕，等待狀態更新...
+Port <selenium.webdriver.remote.webelement.WebElement (session="4d3c66995ae0793349be1237a1567be1", element="f.6C91D0F167249A5DCB5CC8FD57E34D9E.d.1FF311BEC2E850F31956242906414524.e.177")> 成功切換為 tagImg！
+切換成功
+Try to login
+Find Password
+Click 'VLAN'
+Click '802.1Q'
+Click 'Advanced'
+Click 'VLAN config'
+Click 'VLAN membership'
+Switch to frame
+Select VID 2
+Port <selenium.webdriver.remote.webelement.WebElement (session="28c872acba69c34ef35959dfd86aebd3", element="f.58F4274B95B5C31442B433E8895FAD25.d.7E14D151E79CB6AD8D5AB9E73C75D1D8.e.176")>未包含 untImg，點擊並重試...
+成功點擊按鈕，等待狀態更新...
+Port <selenium.webdriver.remote.webelement.WebElement (session="28c872acba69c34ef35959dfd86aebd3", element="f.58F4274B95B5C31442B433E8895FAD25.d.7E14D151E79CB6AD8D5AB9E73C75D1D8.e.176")> 成功切換為 untImg！
+切換成功
+Port <selenium.webdriver.remote.webelement.WebElement (session="28c872acba69c34ef35959dfd86aebd3", element="f.58F4274B95B5C31442B433E8895FAD25.d.7E14D151E79CB6AD8D5AB9E73C75D1D8.e.177")>未包含 tagImg，點擊並重試...
+成功點擊按鈕，等待狀態更新...
+Port <selenium.webdriver.remote.webelement.WebElement (session="28c872acba69c34ef35959dfd86aebd3", element="f.58F4274B95B5C31442B433E8895FAD25.d.7E14D151E79CB6AD8D5AB9E73C75D1D8.e.177")> 未成功切換為 tagImg！
+Port <selenium.webdriver.remote.webelement.WebElement (session="28c872acba69c34ef35959dfd86aebd3", element="f.58F4274B95B5C31442B433E8895FAD25.d.7E14D151E79CB6AD8D5AB9E73C75D1D8.e.177")>未包含 tagImg，點擊並重試...
+成功點擊按鈕，等待狀態更新...
+Port <selenium.webdriver.remote.webelement.WebElement (session="28c872acba69c34ef35959dfd86aebd3", element="f.58F4274B95B5C31442B433E8895FAD25.d.7E14D151E79CB6AD8D5AB9E73C75D1D8.e.177")> 成功切換為 tagImg！
+切換成功
+Try to login
+Find Password
+Click 'VLAN'
+Click '802.1Q'
+Click 'Advanced'
+Click 'VLAN config'
+Click 'VLAN membership'
+Switch to frame
+Select VID 2
+Port <selenium.webdriver.remote.webelement.WebElement (session="33117be7c741b8fc17258b00dc0c984d", element="f.F540E5C09957E4416771B361951FAEF4.d.9D7143793FDF64AAC573FC6084E39AF6.e.176")>未包含 untImg，點擊並重試...
+成功點擊按鈕，等待狀態更新...
+Port <selenium.webdriver.remote.webelement.WebElement (session="33117be7c741b8fc17258b00dc0c984d", element="f.F540E5C09957E4416771B361951FAEF4.d.9D7143793FDF64AAC573FC6084E39AF6.e.176")> 成功切換為 untImg！
+切換成功
+Port <selenium.webdriver.remote.webelement.WebElement (session="33117be7c741b8fc17258b00dc0c984d", element="f.F540E5C09957E4416771B361951FAEF4.d.9D7143793FDF64AAC573FC6084E39AF6.e.177")>未包含 tagImg，點擊並重試...
+成功點擊按鈕，等待狀態更新...
+Port <selenium.webdriver.remote.webelement.WebElement (session="33117be7c741b8fc17258b00dc0c984d", element="f.F540E5C09957E4416771B361951FAEF4.d.9D7143793FDF64AAC573FC6084E39AF6.e.177")> 未成功切換為 tagImg！
+Port <selenium.webdriver.remote.webelement.WebElement (session="33117be7c741b8fc17258b00dc0c984d", element="f.F540E5C09957E4416771B361951FAEF4.d.9D7143793FDF64AAC573FC6084E39AF6.e.177")>未包含 tagImg，點擊並重試...
+成功點擊按鈕，等待狀態更新...
+Port <selenium.webdriver.remote.webelement.WebElement (session="33117be7c741b8fc17258b00dc0c984d", element="f.F540E5C09957E4416771B361951FAEF4.d.9D7143793FDF64AAC573FC6084E39AF6.e.177")> 成功切換為 tagImg！
+切換成功
+Try to login
+Find Password
+Cannot click 'VLAN'. Stop test.
+Try to login
+Find Password
+Click 'VLAN'
+Click '802.1Q'
+Click 'Advanced'
+Click 'VLAN config'
+Click 'VLAN membership'
+Switch to frame
+Select VID 2
+Try to login
+Find Password
+Click 'VLAN'
+Click '802.1Q'
+Click 'Advanced'
+Click 'VLAN config'
+Click 'VLAN membership'
+Switch to frame
+Try to login
+Find Password
+Click 'VLAN'
+Click '802.1Q'
+Click 'Advanced'
+Click 'VLAN config'
+Click 'VLAN membership'
+Switch to frame
+Select VID 2
+Try to login
+Find Password
+Click 'VLAN'
+Click '802.1Q'
+Click 'Advanced'
+Click 'VLAN config'
+Click 'VLAN membership'
+Switch to frame
+Select VID 3
+Try to login
+Find Password
+Cannot click 'VLAN'. Stop test.
+Try to login
+Find Password
+Click 'VLAN'
+Click '802.1Q'
+Click 'Advanced'
+Click 'VLAN config'
+Click 'VLAN membership'
+Switch to frame
+Port <selenium.webdriver.remote.webelement.WebElement (session="0850a9fbd7d0e9a45115506fa167bca3", element="f.17DBA394202C77C8168C47E36E54AB91.d.0B7D752D3D06CBEDFF15FE6375A2A41F.e.126")>未包含 remImg，點擊並重試...
+成功點擊按鈕，等待狀態更新...
+Port <selenium.webdriver.remote.webelement.WebElement (session="0850a9fbd7d0e9a45115506fa167bca3", element="f.17DBA394202C77C8168C47E36E54AB91.d.0B7D752D3D06CBEDFF15FE6375A2A41F.e.126")> 未成功切換為 remImg！
+Port <selenium.webdriver.remote.webelement.WebElement (session="0850a9fbd7d0e9a45115506fa167bca3", element="f.17DBA394202C77C8168C47E36E54AB91.d.0B7D752D3D06CBEDFF15FE6375A2A41F.e.126")>未包含 remImg，點擊並重試...
+成功點擊按鈕，等待狀態更新...
+Port <selenium.webdriver.remote.webelement.WebElement (session="0850a9fbd7d0e9a45115506fa167bca3", element="f.17DBA394202C77C8168C47E36E54AB91.d.0B7D752D3D06CBEDFF15FE6375A2A41F.e.126")> 成功切換為 remImg！
+切換成功
+Port <selenium.webdriver.remote.webelement.WebElement (session="0850a9fbd7d0e9a45115506fa167bca3", element="f.17DBA394202C77C8168C47E36E54AB91.d.0B7D752D3D06CBEDFF15FE6375A2A41F.e.128")>未包含 tagImg，點擊並重試...
+成功點擊按鈕，等待狀態更新...
+Port <selenium.webdriver.remote.webelement.WebElement (session="0850a9fbd7d0e9a45115506fa167bca3", element="f.17DBA394202C77C8168C47E36E54AB91.d.0B7D752D3D06CBEDFF15FE6375A2A41F.e.128")> 成功切換為 tagImg！
+切換成功
+Cannot click 'Apply'. Stop test.
+Try to login
+Find Password
+Click 'VLAN'
+Click '802.1Q'
+Click 'Advanced'
+Click 'VLAN config'
+Click 'VLAN membership'
+Switch to frame
+Port <selenium.webdriver.remote.webelement.WebElement (session="24a4af7897e6bdebd199dc87010cd29c", element="f.DA21E909925F01971BAB3472309DD7FE.d.549F224A76B45D3341BC4FA87A8A4158.e.124")>未包含 remImg，點擊並重試...
+成功點擊按鈕，等待狀態更新...
+Port <selenium.webdriver.remote.webelement.WebElement (session="24a4af7897e6bdebd199dc87010cd29c", element="f.DA21E909925F01971BAB3472309DD7FE.d.549F224A76B45D3341BC4FA87A8A4158.e.124")> 未成功切換為 remImg！
+Port <selenium.webdriver.remote.webelement.WebElement (session="24a4af7897e6bdebd199dc87010cd29c", element="f.DA21E909925F01971BAB3472309DD7FE.d.549F224A76B45D3341BC4FA87A8A4158.e.124")>未包含 remImg，點擊並重試...
+成功點擊按鈕，等待狀態更新...
+Port <selenium.webdriver.remote.webelement.WebElement (session="24a4af7897e6bdebd199dc87010cd29c", element="f.DA21E909925F01971BAB3472309DD7FE.d.549F224A76B45D3341BC4FA87A8A4158.e.124")> 成功切換為 remImg！
+切換成功
+Port <selenium.webdriver.remote.webelement.WebElement (session="24a4af7897e6bdebd199dc87010cd29c", element="f.DA21E909925F01971BAB3472309DD7FE.d.549F224A76B45D3341BC4FA87A8A4158.e.125")>未包含 remImg，點擊並重試...
+成功點擊按鈕，等待狀態更新...
+Port <selenium.webdriver.remote.webelement.WebElement (session="24a4af7897e6bdebd199dc87010cd29c", element="f.DA21E909925F01971BAB3472309DD7FE.d.549F224A76B45D3341BC4FA87A8A4158.e.125")> 未成功切換為 remImg！
+Port <selenium.webdriver.remote.webelement.WebElement (session="24a4af7897e6bdebd199dc87010cd29c", element="f.DA21E909925F01971BAB3472309DD7FE.d.549F224A76B45D3341BC4FA87A8A4158.e.125")>未包含 remImg，點擊並重試...
+成功點擊按鈕，等待狀態更新...
+Port <selenium.webdriver.remote.webelement.WebElement (session="24a4af7897e6bdebd199dc87010cd29c", element="f.DA21E909925F01971BAB3472309DD7FE.d.549F224A76B45D3341BC4FA87A8A4158.e.125")> 成功切換為 remImg！
+切換成功
+Port <selenium.webdriver.remote.webelement.WebElement (session="24a4af7897e6bdebd199dc87010cd29c", element="f.DA21E909925F01971BAB3472309DD7FE.d.549F224A76B45D3341BC4FA87A8A4158.e.126")>未包含 remImg，點擊並重試...
+成功點擊按鈕，等待狀態更新...
+Port <selenium.webdriver.remote.webelement.WebElement (session="24a4af7897e6bdebd199dc87010cd29c", element="f.DA21E909925F01971BAB3472309DD7FE.d.549F224A76B45D3341BC4FA87A8A4158.e.126")> 未成功切換為 remImg！
+Port <selenium.webdriver.remote.webelement.WebElement (session="24a4af7897e6bdebd199dc87010cd29c", element="f.DA21E909925F01971BAB3472309DD7FE.d.549F224A76B45D3341BC4FA87A8A4158.e.126")>未包含 remImg，點擊並重試...
+成功點擊按鈕，等待狀態更新...
+Port <selenium.webdriver.remote.webelement.WebElement (session="24a4af7897e6bdebd199dc87010cd29c", element="f.DA21E909925F01971BAB3472309DD7FE.d.549F224A76B45D3341BC4FA87A8A4158.e.126")> 成功切換為 remImg！
+切換成功
+Cannot click 'Apply'. Stop test.
+Try to login
+Find Password
+Click 'VLAN'
+Cannot click '802.1Q'. Stop test.
+Try to login
+Find Password
+Click 'VLAN'
+Click '802.1Q'
+Click 'Advanced'
+Click 'VLAN config'
+Click 'VLAN membership'
+Switch to frame
+Cannot click 'Apply'. Stop test.
+Try to login
+Find Password
+Click 'VLAN'
+Click '802.1Q'
+Click 'Advanced'
+Click 'VLAN config'
+Click 'VLAN membership'
+Switch to frame
+Port <selenium.webdriver.remote.webelement.WebElement (session="626d32f1cd1f596b761746108ccd661d", element="f.9AF8430998399771F6037A9CF1363530.d.826D26817108FB5700E2A57F630AB14C.e.128")>未包含 remImg，點擊並重試...
+成功點擊按鈕，等待狀態更新...
+Port <selenium.webdriver.remote.webelement.WebElement (session="626d32f1cd1f596b761746108ccd661d", element="f.9AF8430998399771F6037A9CF1363530.d.826D26817108FB5700E2A57F630AB14C.e.128")> 未成功切換為 remImg！
+Port <selenium.webdriver.remote.webelement.WebElement (session="626d32f1cd1f596b761746108ccd661d", element="f.9AF8430998399771F6037A9CF1363530.d.826D26817108FB5700E2A57F630AB14C.e.128")>未包含 remImg，點擊並重試...
+成功點擊按鈕，等待狀態更新...
+Port <selenium.webdriver.remote.webelement.WebElement (session="626d32f1cd1f596b761746108ccd661d", element="f.9AF8430998399771F6037A9CF1363530.d.826D26817108FB5700E2A57F630AB14C.e.128")> 成功切換為 remImg！
+切換成功
+Port <selenium.webdriver.remote.webelement.WebElement (session="626d32f1cd1f596b761746108ccd661d", element="f.9AF8430998399771F6037A9CF1363530.d.826D26817108FB5700E2A57F630AB14C.e.129")>未包含 remImg，點擊並重試...
+成功點擊按鈕，等待狀態更新...
+Port <selenium.webdriver.remote.webelement.WebElement (session="626d32f1cd1f596b761746108ccd661d", element="f.9AF8430998399771F6037A9CF1363530.d.826D26817108FB5700E2A57F630AB14C.e.129")> 未成功切換為 remImg！
+Port <selenium.webdriver.remote.webelement.WebElement (session="626d32f1cd1f596b761746108ccd661d", element="f.9AF8430998399771F6037A9CF1363530.d.826D26817108FB5700E2A57F630AB14C.e.129")>未包含 remImg，點擊並重試...
+成功點擊按鈕，等待狀態更新...
+Port <selenium.webdriver.remote.webelement.WebElement (session="626d32f1cd1f596b761746108ccd661d", element="f.9AF8430998399771F6037A9CF1363530.d.826D26817108FB5700E2A57F630AB14C.e.129")> 成功切換為 remImg！
+切換成功
+Port <selenium.webdriver.remote.webelement.WebElement (session="626d32f1cd1f596b761746108ccd661d", element="f.9AF8430998399771F6037A9CF1363530.d.826D26817108FB5700E2A57F630AB14C.e.130")>未包含 remImg，點擊並重試...
+成功點擊按鈕，等待狀態更新...
+Port <selenium.webdriver.remote.webelement.WebElement (session="626d32f1cd1f596b761746108ccd661d", element="f.9AF8430998399771F6037A9CF1363530.d.826D26817108FB5700E2A57F630AB14C.e.130")> 未成功切換為 remImg！
+Port <selenium.webdriver.remote.webelement.WebElement (session="626d32f1cd1f596b761746108ccd661d", element="f.9AF8430998399771F6037A9CF1363530.d.826D26817108FB5700E2A57F630AB14C.e.130")>未包含 remImg，點擊並重試...
+成功點擊按鈕，等待狀態更新...
+Port <selenium.webdriver.remote.webelement.WebElement (session="626d32f1cd1f596b761746108ccd661d", element="f.9AF8430998399771F6037A9CF1363530.d.826D26817108FB5700E2A57F630AB14C.e.130")> 成功切換為 remImg！
+切換成功
+Cannot click 'Apply'. Stop test.
+Try to login
+Find Password
+Click 'VLAN'
+Click '802.1Q'
+Click 'Advanced'
+Click 'VLAN config'
+Click 'VLAN membership'
+Switch to frame
+Port <selenium.webdriver.remote.webelement.WebElement (session="cd75fd947afb346dd8733871689d542c", element="f.434FEC54B4FFA7BAB762FFDD396F5AD5.d.F1053A5AD3D5940AB761E98FC9785232.e.127")>未包含 remImg，點擊並重試...
+成功點擊按鈕，等待狀態更新...
+Port <selenium.webdriver.remote.webelement.WebElement (session="cd75fd947afb346dd8733871689d542c", element="f.434FEC54B4FFA7BAB762FFDD396F5AD5.d.F1053A5AD3D5940AB761E98FC9785232.e.127")> 未成功切換為 remImg！
+Port <selenium.webdriver.remote.webelement.WebElement (session="cd75fd947afb346dd8733871689d542c", element="f.434FEC54B4FFA7BAB762FFDD396F5AD5.d.F1053A5AD3D5940AB761E98FC9785232.e.127")>未包含 remImg，點擊並重試...
+成功點擊按鈕，等待狀態更新...
+Port <selenium.webdriver.remote.webelement.WebElement (session="cd75fd947afb346dd8733871689d542c", element="f.434FEC54B4FFA7BAB762FFDD396F5AD5.d.F1053A5AD3D5940AB761E98FC9785232.e.127")> 成功切換為 remImg！
+切換成功
+Port <selenium.webdriver.remote.webelement.WebElement (session="cd75fd947afb346dd8733871689d542c", element="f.434FEC54B4FFA7BAB762FFDD396F5AD5.d.F1053A5AD3D5940AB761E98FC9785232.e.128")>未包含 remImg，點擊並重試...
+成功點擊按鈕，等待狀態更新...
+Port <selenium.webdriver.remote.webelement.WebElement (session="cd75fd947afb346dd8733871689d542c", element="f.434FEC54B4FFA7BAB762FFDD396F5AD5.d.F1053A5AD3D5940AB761E98FC9785232.e.128")> 未成功切換為 remImg！
+Port <selenium.webdriver.remote.webelement.WebElement (session="cd75fd947afb346dd8733871689d542c", element="f.434FEC54B4FFA7BAB762FFDD396F5AD5.d.F1053A5AD3D5940AB761E98FC9785232.e.128")>未包含 remImg，點擊並重試...
+成功點擊按鈕，等待狀態更新...
+Port <selenium.webdriver.remote.webelement.WebElement (session="cd75fd947afb346dd8733871689d542c", element="f.434FEC54B4FFA7BAB762FFDD396F5AD5.d.F1053A5AD3D5940AB761E98FC9785232.e.128")> 成功切換為 remImg！
+切換成功
+Port <selenium.webdriver.remote.webelement.WebElement (session="cd75fd947afb346dd8733871689d542c", element="f.434FEC54B4FFA7BAB762FFDD396F5AD5.d.F1053A5AD3D5940AB761E98FC9785232.e.129")>未包含 remImg，點擊並重試...
+成功點擊按鈕，等待狀態更新...
+Port <selenium.webdriver.remote.webelement.WebElement (session="cd75fd947afb346dd8733871689d542c", element="f.434FEC54B4FFA7BAB762FFDD396F5AD5.d.F1053A5AD3D5940AB761E98FC9785232.e.129")> 未成功切換為 remImg！
+Port <selenium.webdriver.remote.webelement.WebElement (session="cd75fd947afb346dd8733871689d542c", element="f.434FEC54B4FFA7BAB762FFDD396F5AD5.d.F1053A5AD3D5940AB761E98FC9785232.e.129")>未包含 remImg，點擊並重試...
+成功點擊按鈕，等待狀態更新...
+Port <selenium.webdriver.remote.webelement.WebElement (session="cd75fd947afb346dd8733871689d542c", element="f.434FEC54B4FFA7BAB762FFDD396F5AD5.d.F1053A5AD3D5940AB761E98FC9785232.e.129")> 成功切換為 remImg！
+切換成功
+Cannot click 'Apply'. Stop test.
+Try to login
+Find Password
+Click 'VLAN'
+Click '802.1Q'
+Click 'Advanced'
+Click 'VLAN config'
+Click 'VLAN membership'
+Switch to frame
+Port <selenium.webdriver.remote.webelement.WebElement (session="d4e0f5bb2c164b41b2e4c35572e0fe17", element="f.9118DE7C487A3FCB9C5861E4E60B2D0E.d.8F759FF9E196DCCF4606BA87BE9E1447.e.128")>未包含 remImg，點擊並重試...
+成功點擊按鈕，等待狀態更新...
+Port <selenium.webdriver.remote.webelement.WebElement (session="d4e0f5bb2c164b41b2e4c35572e0fe17", element="f.9118DE7C487A3FCB9C5861E4E60B2D0E.d.8F759FF9E196DCCF4606BA87BE9E1447.e.128")> 未成功切換為 remImg！
+Port <selenium.webdriver.remote.webelement.WebElement (session="d4e0f5bb2c164b41b2e4c35572e0fe17", element="f.9118DE7C487A3FCB9C5861E4E60B2D0E.d.8F759FF9E196DCCF4606BA87BE9E1447.e.128")>未包含 remImg，點擊並重試...
+成功點擊按鈕，等待狀態更新...
+Port <selenium.webdriver.remote.webelement.WebElement (session="d4e0f5bb2c164b41b2e4c35572e0fe17", element="f.9118DE7C487A3FCB9C5861E4E60B2D0E.d.8F759FF9E196DCCF4606BA87BE9E1447.e.128")> 成功切換為 remImg！
+切換成功
+Port <selenium.webdriver.remote.webelement.WebElement (session="d4e0f5bb2c164b41b2e4c35572e0fe17", element="f.9118DE7C487A3FCB9C5861E4E60B2D0E.d.8F759FF9E196DCCF4606BA87BE9E1447.e.129")>未包含 remImg，點擊並重試...
+成功點擊按鈕，等待狀態更新...
+Port <selenium.webdriver.remote.webelement.WebElement (session="d4e0f5bb2c164b41b2e4c35572e0fe17", element="f.9118DE7C487A3FCB9C5861E4E60B2D0E.d.8F759FF9E196DCCF4606BA87BE9E1447.e.129")> 未成功切換為 remImg！
+Port <selenium.webdriver.remote.webelement.WebElement (session="d4e0f5bb2c164b41b2e4c35572e0fe17", element="f.9118DE7C487A3FCB9C5861E4E60B2D0E.d.8F759FF9E196DCCF4606BA87BE9E1447.e.129")>未包含 remImg，點擊並重試...
+成功點擊按鈕，等待狀態更新...
+Port <selenium.webdriver.remote.webelement.WebElement (session="d4e0f5bb2c164b41b2e4c35572e0fe17", element="f.9118DE7C487A3FCB9C5861E4E60B2D0E.d.8F759FF9E196DCCF4606BA87BE9E1447.e.129")> 成功切換為 remImg！
+切換成功
+Port <selenium.webdriver.remote.webelement.WebElement (session="d4e0f5bb2c164b41b2e4c35572e0fe17", element="f.9118DE7C487A3FCB9C5861E4E60B2D0E.d.8F759FF9E196DCCF4606BA87BE9E1447.e.130")>未包含 remImg，點擊並重試...
+成功點擊按鈕，等待狀態更新...
+Port <selenium.webdriver.remote.webelement.WebElement (session="d4e0f5bb2c164b41b2e4c35572e0fe17", element="f.9118DE7C487A3FCB9C5861E4E60B2D0E.d.8F759FF9E196DCCF4606BA87BE9E1447.e.130")> 未成功切換為 remImg！
+Port <selenium.webdriver.remote.webelement.WebElement (session="d4e0f5bb2c164b41b2e4c35572e0fe17", element="f.9118DE7C487A3FCB9C5861E4E60B2D0E.d.8F759FF9E196DCCF4606BA87BE9E1447.e.130")>未包含 remImg，點擊並重試...
+成功點擊按鈕，等待狀態更新...
+Port <selenium.webdriver.remote.webelement.WebElement (session="d4e0f5bb2c164b41b2e4c35572e0fe17", element="f.9118DE7C487A3FCB9C5861E4E60B2D0E.d.8F759FF9E196DCCF4606BA87BE9E1447.e.130")> 成功切換為 remImg！
+切換成功
+Cannot click 'Apply'. Stop test.
+Try to login
+Find Password
+Click 'VLAN'
+Click '802.1Q'
+Click 'Advanced'
+Click 'VLAN config'
+Click 'VLAN membership'
+Switch to frame
+Port <selenium.webdriver.remote.webelement.WebElement (session="f0502dd7c98364fb65f010ce9ef2b057", element="f.6465E62F26BB1AA7C8ED602A1DF3BFAA.d.A885B35C8F61AB0B228111FE817F76AE.e.128")>未包含 remImg，點擊並重試...
+成功點擊按鈕，等待狀態更新...
+Port <selenium.webdriver.remote.webelement.WebElement (session="f0502dd7c98364fb65f010ce9ef2b057", element="f.6465E62F26BB1AA7C8ED602A1DF3BFAA.d.A885B35C8F61AB0B228111FE817F76AE.e.128")> 未成功切換為 remImg！
+Port <selenium.webdriver.remote.webelement.WebElement (session="f0502dd7c98364fb65f010ce9ef2b057", element="f.6465E62F26BB1AA7C8ED602A1DF3BFAA.d.A885B35C8F61AB0B228111FE817F76AE.e.128")>未包含 remImg，點擊並重試...
+成功點擊按鈕，等待狀態更新...
+Port <selenium.webdriver.remote.webelement.WebElement (session="f0502dd7c98364fb65f010ce9ef2b057", element="f.6465E62F26BB1AA7C8ED602A1DF3BFAA.d.A885B35C8F61AB0B228111FE817F76AE.e.128")> 成功切換為 remImg！
+切換成功
+Port <selenium.webdriver.remote.webelement.WebElement (session="f0502dd7c98364fb65f010ce9ef2b057", element="f.6465E62F26BB1AA7C8ED602A1DF3BFAA.d.A885B35C8F61AB0B228111FE817F76AE.e.129")>未包含 remImg，點擊並重試...
+成功點擊按鈕，等待狀態更新...
+Port <selenium.webdriver.remote.webelement.WebElement (session="f0502dd7c98364fb65f010ce9ef2b057", element="f.6465E62F26BB1AA7C8ED602A1DF3BFAA.d.A885B35C8F61AB0B228111FE817F76AE.e.129")> 未成功切換為 remImg！
+Port <selenium.webdriver.remote.webelement.WebElement (session="f0502dd7c98364fb65f010ce9ef2b057", element="f.6465E62F26BB1AA7C8ED602A1DF3BFAA.d.A885B35C8F61AB0B228111FE817F76AE.e.129")>未包含 remImg，點擊並重試...
+成功點擊按鈕，等待狀態更新...
+Port <selenium.webdriver.remote.webelement.WebElement (session="f0502dd7c98364fb65f010ce9ef2b057", element="f.6465E62F26BB1AA7C8ED602A1DF3BFAA.d.A885B35C8F61AB0B228111FE817F76AE.e.129")> 成功切換為 remImg！
+切換成功
+Port <selenium.webdriver.remote.webelement.WebElement (session="f0502dd7c98364fb65f010ce9ef2b057", element="f.6465E62F26BB1AA7C8ED602A1DF3BFAA.d.A885B35C8F61AB0B228111FE817F76AE.e.130")>未包含 remImg，點擊並重試...
+成功點擊按鈕，等待狀態更新...
+Port <selenium.webdriver.remote.webelement.WebElement (session="f0502dd7c98364fb65f010ce9ef2b057", element="f.6465E62F26BB1AA7C8ED602A1DF3BFAA.d.A885B35C8F61AB0B228111FE817F76AE.e.130")> 未成功切換為 remImg！
+Port <selenium.webdriver.remote.webelement.WebElement (session="f0502dd7c98364fb65f010ce9ef2b057", element="f.6465E62F26BB1AA7C8ED602A1DF3BFAA.d.A885B35C8F61AB0B228111FE817F76AE.e.130")>未包含 remImg，點擊並重試...
+成功點擊按鈕，等待狀態更新...
+Port <selenium.webdriver.remote.webelement.WebElement (session="f0502dd7c98364fb65f010ce9ef2b057", element="f.6465E62F26BB1AA7C8ED602A1DF3BFAA.d.A885B35C8F61AB0B228111FE817F76AE.e.130")> 成功切換為 remImg！
+切換成功
+Cannot click 'Apply'. Stop test.
+Try to login
+Find Password
+Click 'VLAN'
+Click '802.1Q'
+Click 'Advanced'
+Click 'VLAN config'
+Click 'VLAN membership'
+Switch to frame
+Port <selenium.webdriver.remote.webelement.WebElement (session="4138a5362a75d62484cdb0b9118939ed", element="f.8FBC0E49AE5766E71733383E6A3BA001.d.C9337D2F65336DD2408AD362566FD621.e.128")>未包含 remImg，點擊並重試...
+成功點擊按鈕，等待狀態更新...
+Port <selenium.webdriver.remote.webelement.WebElement (session="4138a5362a75d62484cdb0b9118939ed", element="f.8FBC0E49AE5766E71733383E6A3BA001.d.C9337D2F65336DD2408AD362566FD621.e.128")> 未成功切換為 remImg！
+Port <selenium.webdriver.remote.webelement.WebElement (session="4138a5362a75d62484cdb0b9118939ed", element="f.8FBC0E49AE5766E71733383E6A3BA001.d.C9337D2F65336DD2408AD362566FD621.e.128")>未包含 remImg，點擊並重試...
+成功點擊按鈕，等待狀態更新...
+Port <selenium.webdriver.remote.webelement.WebElement (session="4138a5362a75d62484cdb0b9118939ed", element="f.8FBC0E49AE5766E71733383E6A3BA001.d.C9337D2F65336DD2408AD362566FD621.e.128")> 成功切換為 remImg！
+切換成功
+Port <selenium.webdriver.remote.webelement.WebElement (session="4138a5362a75d62484cdb0b9118939ed", element="f.8FBC0E49AE5766E71733383E6A3BA001.d.C9337D2F65336DD2408AD362566FD621.e.129")>未包含 remImg，點擊並重試...
+成功點擊按鈕，等待狀態更新...
+Port <selenium.webdriver.remote.webelement.WebElement (session="4138a5362a75d62484cdb0b9118939ed", element="f.8FBC0E49AE5766E71733383E6A3BA001.d.C9337D2F65336DD2408AD362566FD621.e.129")> 未成功切換為 remImg！
+Port <selenium.webdriver.remote.webelement.WebElement (session="4138a5362a75d62484cdb0b9118939ed", element="f.8FBC0E49AE5766E71733383E6A3BA001.d.C9337D2F65336DD2408AD362566FD621.e.129")>未包含 remImg，點擊並重試...
+成功點擊按鈕，等待狀態更新...
+Port <selenium.webdriver.remote.webelement.WebElement (session="4138a5362a75d62484cdb0b9118939ed", element="f.8FBC0E49AE5766E71733383E6A3BA001.d.C9337D2F65336DD2408AD362566FD621.e.129")> 成功切換為 remImg！
+切換成功
+Port <selenium.webdriver.remote.webelement.WebElement (session="4138a5362a75d62484cdb0b9118939ed", element="f.8FBC0E49AE5766E71733383E6A3BA001.d.C9337D2F65336DD2408AD362566FD621.e.130")>未包含 remImg，點擊並重試...
+成功點擊按鈕，等待狀態更新...
+Port <selenium.webdriver.remote.webelement.WebElement (session="4138a5362a75d62484cdb0b9118939ed", element="f.8FBC0E49AE5766E71733383E6A3BA001.d.C9337D2F65336DD2408AD362566FD621.e.130")> 未成功切換為 remImg！
+Port <selenium.webdriver.remote.webelement.WebElement (session="4138a5362a75d62484cdb0b9118939ed", element="f.8FBC0E49AE5766E71733383E6A3BA001.d.C9337D2F65336DD2408AD362566FD621.e.130")>未包含 remImg，點擊並重試...
+成功點擊按鈕，等待狀態更新...
+Port <selenium.webdriver.remote.webelement.WebElement (session="4138a5362a75d62484cdb0b9118939ed", element="f.8FBC0E49AE5766E71733383E6A3BA001.d.C9337D2F65336DD2408AD362566FD621.e.130")> 成功切換為 remImg！
+切換成功
+Click 'Apply'
+Attempting login
+Error while navigating: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="VLAN"]"}
+  (Session info: chrome=133.0.6943.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF744146EE5+28773]
+	(No symbol) [0x00007FF7440B25D0]
+	(No symbol) [0x00007FF743F48FAA]
+	(No symbol) [0x00007FF743F9F286]
+	(No symbol) [0x00007FF743F9F4BC]
+	(No symbol) [0x00007FF743FF2A27]
+	(No symbol) [0x00007FF743FC728F]
+	(No symbol) [0x00007FF743FEF6F3]
+	(No symbol) [0x00007FF743FC7023]
+	(No symbol) [0x00007FF743F8FF5E]
+	(No symbol) [0x00007FF743F911E3]
+	GetHandleVerifier [0x00007FF74449422D+3490733]
+	GetHandleVerifier [0x00007FF7444ABA13+3586963]
+	GetHandleVerifier [0x00007FF7444A144D+3544525]
+	GetHandleVerifier [0x00007FF74420C9AA+838442]
+	(No symbol) [0x00007FF7440BD01F]
+	(No symbol) [0x00007FF7440B95E4]
+	(No symbol) [0x00007FF7440B9786]
+	(No symbol) [0x00007FF7440A8CB9]
+	BaseThreadInitThunk [0x00007FF8F7C4E8D7+23]
+	RtlUserThreadStart [0x00007FF8F943BF2C+44]
+
+Attempting login
+Clicked 'VLAN'
+Clicked '802.1Q'
+Clicked 'Advanced'
+Clicked 'VLAN config'
+Clicked 'VLAN membership'
+Switch to frame
+Select VID 2
+Port not in remImg. Clicking to change state...
+Clicked, waiting for state update...
+Port successfully changed to remImg!
+Port not in remImg. Clicking to change state...
+Clicked, waiting for state update...
+Port not in remImg. Clicking to change state...
+Clicked, waiting for state update...
+Port successfully changed to remImg!
+Clicked 'Apply'
+Attempting login
+Clicked 'VLAN'
+Clicked '802.1Q'
+Clicked 'Advanced'
+Clicked 'VLAN config'
+Clicked 'VLAN membership'
+Switch to frame
+Select VID 2
+Attempting login
+Clicked 'VLAN'
+Clicked '802.1Q'
+Clicked 'Advanced'
+Clicked 'VLAN config'
+Clicked 'VLAN membership'
+Switch to frame
+Select VID 2
+Port not in tagImg. Clicking to change state...
+Clicked, waiting for state update...
+Port not in tagImg. Clicking to change state...
+Clicked, waiting for state update...
+Port successfully changed to tagImg!
+Port not in untImg. Clicking to change state...
+Clicked, waiting for state update...
+Port successfully changed to untImg!
+Clicked 'Apply'
+Switch to frame
+Select VID 2
+Port not in tagImg. Clicking to change state...
+Clicked, waiting for state update...
+Port not in tagImg. Clicking to change state...
+Clicked, waiting for state update...
+Port successfully changed to tagImg!
+Port not in untImg. Clicking to change state...
+Clicked, waiting for state update...
+Port successfully changed to untImg!
+Clicked 'Apply'
+Attempting login
+Clicked 'VLAN'
+Clicked '802.1Q'
+Clicked 'Advanced'
+Clicked 'VLAN config'
+Clicked 'VLAN membership'
+Switch to frame
+Select VID 2
+Clicked 'Apply'
+Switch to frame
+Select VID 3
+Port not in tagImg. Clicking to change state...
+Clicked, waiting for state update...
+Port not in tagImg. Clicking to change state...
+Clicked, waiting for state update...
+Port successfully changed to tagImg!
+Port not in untImg. Clicking to change state...
+Clicked, waiting for state update...
+Port successfully changed to untImg!
+Clicked 'Apply'
+Attempting login
+Error while navigating: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="VLAN"]"}
+  (Session info: chrome=133.0.6943.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7CC866F15+28773]
+	(No symbol) [0x00007FF7CC7D2600]
+	(No symbol) [0x00007FF7CC668FAA]
+	(No symbol) [0x00007FF7CC6BF286]
+	(No symbol) [0x00007FF7CC6BF4BC]
+	(No symbol) [0x00007FF7CC712A27]
+	(No symbol) [0x00007FF7CC6E728F]
+	(No symbol) [0x00007FF7CC70F6F3]
+	(No symbol) [0x00007FF7CC6E7023]
+	(No symbol) [0x00007FF7CC6AFF5E]
+	(No symbol) [0x00007FF7CC6B11E3]
+	GetHandleVerifier [0x00007FF7CCBB425D+3490733]
+	GetHandleVerifier [0x00007FF7CCBCBA43+3586963]
+	GetHandleVerifier [0x00007FF7CCBC147D+3544525]
+	GetHandleVerifier [0x00007FF7CC92C9DA+838442]
+	(No symbol) [0x00007FF7CC7DD04F]
+	(No symbol) [0x00007FF7CC7D9614]
+	(No symbol) [0x00007FF7CC7D97B6]
+	(No symbol) [0x00007FF7CC7C8CE9]
+	BaseThreadInitThunk [0x00007FF8F7C4E8D7+23]
+	RtlUserThreadStart [0x00007FF8F943BF2C+44]
+
+Attempting login
+Error while navigating: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="VLAN"]"}
+  (Session info: chrome=133.0.6943.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7CC866F15+28773]
+	(No symbol) [0x00007FF7CC7D2600]
+	(No symbol) [0x00007FF7CC668FAA]
+	(No symbol) [0x00007FF7CC6BF286]
+	(No symbol) [0x00007FF7CC6BF4BC]
+	(No symbol) [0x00007FF7CC712A27]
+	(No symbol) [0x00007FF7CC6E728F]
+	(No symbol) [0x00007FF7CC70F6F3]
+	(No symbol) [0x00007FF7CC6E7023]
+	(No symbol) [0x00007FF7CC6AFF5E]
+	(No symbol) [0x00007FF7CC6B11E3]
+	GetHandleVerifier [0x00007FF7CCBB425D+3490733]
+	GetHandleVerifier [0x00007FF7CCBCBA43+3586963]
+	GetHandleVerifier [0x00007FF7CCBC147D+3544525]
+	GetHandleVerifier [0x00007FF7CC92C9DA+838442]
+	(No symbol) [0x00007FF7CC7DD04F]
+	(No symbol) [0x00007FF7CC7D9614]
+	(No symbol) [0x00007FF7CC7D97B6]
+	(No symbol) [0x00007FF7CC7C8CE9]
+	BaseThreadInitThunk [0x00007FF8F7C4E8D7+23]
+	RtlUserThreadStart [0x00007FF8F943BF2C+44]
+
+Attempting login
+Error while navigating: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="VLAN"]"}
+  (Session info: chrome=133.0.6943.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7CC866F15+28773]
+	(No symbol) [0x00007FF7CC7D2600]
+	(No symbol) [0x00007FF7CC668FAA]
+	(No symbol) [0x00007FF7CC6BF286]
+	(No symbol) [0x00007FF7CC6BF4BC]
+	(No symbol) [0x00007FF7CC712A27]
+	(No symbol) [0x00007FF7CC6E728F]
+	(No symbol) [0x00007FF7CC70F6F3]
+	(No symbol) [0x00007FF7CC6E7023]
+	(No symbol) [0x00007FF7CC6AFF5E]
+	(No symbol) [0x00007FF7CC6B11E3]
+	GetHandleVerifier [0x00007FF7CCBB425D+3490733]
+	GetHandleVerifier [0x00007FF7CCBCBA43+3586963]
+	GetHandleVerifier [0x00007FF7CCBC147D+3544525]
+	GetHandleVerifier [0x00007FF7CC92C9DA+838442]
+	(No symbol) [0x00007FF7CC7DD04F]
+	(No symbol) [0x00007FF7CC7D9614]
+	(No symbol) [0x00007FF7CC7D97B6]
+	(No symbol) [0x00007FF7CC7C8CE9]
+	BaseThreadInitThunk [0x00007FF8F7C4E8D7+23]
+	RtlUserThreadStart [0x00007FF8F943BF2C+44]
+
